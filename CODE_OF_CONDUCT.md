@@ -1,50 +1,75 @@
 # Code of Conduct
 
-The Malaysian OSINT Community (MOC) is a professional learning space. Participation requires adherence to legal, ethical, and safety standards.
+This Code of Conduct sets behavioural standards for participation in the Malaysian OSINT Community (MOC). It is designed to protect community safety, legal compliance sensitivity, and ethical practice.
 
-## 1) Prohibited Conduct
+Participation in MOC means you agree to follow these rules.
 
-The following are strictly prohibited:
+## 1) Community Standard
 
-- **Doxxing**: Posting, requesting, or compiling personal data to expose, intimidate, or harm individuals.
-- **Harassment**: Threats, targeted abuse, stalking behavior, discrimination, hate speech, or intimidation.
-- **Illegal Requests**: Asking for hacking support, credential theft, unauthorized access, malware usage, social engineering for fraud, or evasion of law enforcement.
-- **Operational Abuse**: Coordinating campaigns to defame, extort, or manipulate targets.
+MOC is a professional learning space. Members are expected to act with discipline, humility, and respect.
 
-## 2) Ethical OSINT Boundary
+Our culture is flat and low-ego. We follow Ikut Resmi Padi: be grounded, be useful, and do not posture at others.
 
-Members must only perform OSINT activities that are:
+## 2) Scope of Acceptable Activity
 
-- Lawful under applicable Malaysian and international regulations;
-- Based on openly available or properly authorized sources;
-- Conducted for educational, research, defensive, or legitimate public-interest purposes.
+Within MOC, OSINT activity must be:
 
-## 3) WhatsApp Privacy Requirement (Recommended)
+- Lawful and responsible.
+- Ethical and privacy-aware.
+- Based on openly available or properly authorised sources.
+- For education, ethical research, defensive awareness, lawful skill development, or legitimate public-interest learning.
 
-To reduce operational and personal risk, all members are advised to configure WhatsApp privacy so that profile details are hidden from non-contacts:
+If an activity is unclear, high risk, or potentially harmful, stop and seek moderator guidance before proceeding.
 
-- **Profile Photo**: set to **My Contacts** (or stricter).
-- **About**: set to **My Contacts** (or stricter).
-- Recommended: limit Last Seen/Online visibility and Status sharing.
+## 3) Prohibited Conduct
 
-Members who chose not to apply the suggested baseline privacy controls will bear the risk themselves.
+The following are not allowed and may trigger immediate moderation action:
 
-## 4) Moderation & Yellow Card System
+- Doxxing, including publishing, requesting, compiling, or signalling personal data to expose, shame, or endanger a person.
+- Harassment, intimidation, threats, stalking behaviour, hate speech, discrimination, or targeted abuse.
+- Unauthorised access attempts, credential theft, malware use, or exploitation guidance.
+- Fraud, extortion, blackmail, coercion, or deceptive social engineering for unlawful purposes.
+- Unlawful surveillance, invasive tracking, or privacy-violating targeting.
+- Attempts to use OSINT language as cover for abusive, unlawful, or malicious conduct.
+- Requests for evasion tactics intended to bypass law-enforcement action or lawful platform controls.
 
-MOC applies a **Yellow Card** warning model:
+## 4) Privacy and Data Handling Expectations
 
-- **First Violation**: Yellow Card + written warning + corrective guidance.
-- **Repeated/Serious Violation**: temporary mute/removal pending moderator review.
-- **Severe or Illegal Violation**: immediate removal and potential escalation to relevant authorities where required.
+Members must handle information conservatively and minimise harm.
 
-Moderator decisions are based on safety, legality, and community risk.
+- Do not post personal data unless clearly necessary, lawful, and appropriate for the stated purpose.
+- Redact non-essential identifiers when sharing examples, screenshots, or case material.
+- Do not share confidential, leaked, or unlawfully obtained data in MOC channels.
+- Respect consent boundaries and platform terms when collecting or discussing publicly available information.
 
-## 5) Reporting and Enforcement
+Privacy controls in onboarding guidance are minimum safety practice, not a guarantee of security.
 
-If you see a violation:
+## 5) Reporting a Concern
 
-1. Preserve evidence (timestamp, message screenshot, context).
-2. Report privately to moderators/founder.
-3. Avoid public argument escalation in group chat.
+If you see a possible breach:
 
-By joining MOC channels, members agree to this Code of Conduct and all linked policy documents.
+1. Preserve evidence with context, timestamp, and source location.
+2. Report privately to moderators or founder.
+3. Do not escalate disputes in public chat.
+
+False, malicious, or retaliatory reporting may also be moderated.
+
+## 6) Moderation and Enforcement
+
+MOC applies a Yellow Card model while retaining moderator discretion based on risk severity.
+
+- First breach: Yellow Card, written warning, and corrective guidance.
+- Repeated or serious breach: temporary mute, access restriction, or temporary removal pending review.
+- Severe, harmful, or potentially unlawful breach: immediate removal and possible escalation where required.
+
+Moderators may act without prior warning where urgency, safety, or legal sensitivity requires it.
+
+## 7) Decision Basis and Discretion
+
+Moderation decisions are made in good faith using available evidence, context, safety impact, and community risk.
+
+Not every case will fit a fixed checklist. Moderator judgement is used to keep the community safe, lawful, and operationally sound.
+
+## 8) Final Note
+
+This Code sets community rules, not legal advice. Each member remains responsible for their own conduct and legal compliance.
