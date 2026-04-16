@@ -20,11 +20,13 @@ MOC exists to strengthen practical OSINT capability through education, ethical r
 
 ## Policy Documents and How They Fit Together
 
+- [TERMS_OF_REFERENCE.md](TERMS_OF_REFERENCE.md): organisational structure, role scope, operating procedures, and governance model.
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md): behavioural rules, prohibited conduct, reporting, and moderation enforcement.
+- [CODE_OF_ETHICS.md](CODE_OF_ETHICS.md): moral compass for lawful, objective, privacy-respecting, and service-oriented OSINT practice.
 - [DISCLAIMER.md](DISCLAIMER.md): legal and ethical scope, no authorisation, no legal advice, and individual responsibility boundaries.
 - [guides/ONBOARDING.md](guides/ONBOARDING.md): practical onboarding baseline, including privacy and cyber-hygiene steps.
 
-Read the Code of Conduct and Disclaimer first before participating.
+Read the Terms of Reference, Code of Conduct, Code of Ethics, and Disclaimer first before participating.
 
 ## Membership Application
 
@@ -37,11 +39,13 @@ MOC Operations team will contact the applicant via WhatsApp.
 
 ## New Member Start Here
 
-1. Read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) in full.
-2. Read [DISCLAIMER.md](DISCLAIMER.md) in full.
-3. Complete privacy setup in [guides/ONBOARDING.md](guides/ONBOARDING.md).
-4. Use [TEMPLATES.md](TEMPLATES.md) for your introduction format when requested.
-5. Join weekly learning activities in [guides/ENGAGEMENT.md](guides/ENGAGEMENT.md).
+1. Read [TERMS_OF_REFERENCE.md](TERMS_OF_REFERENCE.md) in full.
+2. Read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) in full.
+3. Read [CODE_OF_ETHICS.md](CODE_OF_ETHICS.md) in full.
+4. Read [DISCLAIMER.md](DISCLAIMER.md) in full.
+5. Complete privacy setup in [guides/ONBOARDING.md](guides/ONBOARDING.md).
+6. Use [TEMPLATES.md](TEMPLATES.md) for your introduction format when requested.
+7. Join weekly learning activities in [guides/ENGAGEMENT.md](guides/ENGAGEMENT.md).
 
 ## Community Practice Priorities
 

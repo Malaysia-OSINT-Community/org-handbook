@@ -4,6 +4,8 @@ This Code of Conduct sets behavioural standards for participation in the Malaysi
 
 Participation in MOC means you agree to follow these rules.
 
+This Code should be read together with [TERMS_OF_REFERENCE.md](TERMS_OF_REFERENCE.md), [CODE_OF_ETHICS.md](CODE_OF_ETHICS.md), and [DISCLAIMER.md](DISCLAIMER.md).
+
 ## 1) Community Standard
 
 MOC is a professional learning space. Members are expected to act with discipline, humility, and respect.
@@ -73,3 +75,5 @@ Not every case will fit a fixed checklist. Moderator judgement is used to keep t
 ## 8) Final Note
 
 This Code sets community rules, not legal advice. Each member remains responsible for their own conduct and legal compliance.
+
+For ethical practice standards and professional values, refer to [CODE_OF_ETHICS.md](CODE_OF_ETHICS.md).
