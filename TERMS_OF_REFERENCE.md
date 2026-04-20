@@ -127,8 +127,7 @@ MOC is not an operational tasking body and does not authorise investigations, in
 
 MOC governance and operational handling are informed by Malaysian legal and compliance expectations, including:
 
-- **Personal Data Protection Act (PDPA) 2010 and applicable 2024/2026 amendments and guidance**, and
-- **Cybercrime Bill 2026**.
+- **Personal Data Protection Act 2010 [Act 709]** and applicable **Personal Data Protection (Amendment) Act 2024**.
 
 All members remain **individually liable** for their own decisions, investigative actions, and legal compliance obligations.
 

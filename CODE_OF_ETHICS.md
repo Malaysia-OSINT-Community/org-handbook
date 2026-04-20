@@ -16,8 +16,7 @@ OSINT capability is a responsibility, not a status symbol. In MOC, OSINT is a to
 MOC members and practitioners shall:
 
 - Comply strictly with applicable Malaysian law and regulatory obligations.
-- Conduct all work with sensitivity to legal requirements under the **Personal Data Protection Act (PDPA) 2010 and applicable 2024/2026 amendments and guidance**.
-- Conduct all work with sensitivity to obligations under the **Cybercrime Bill 2026**.
+- Conduct all work with sensitivity to legal requirements under the **Personal Data Protection Act 2010 [Act 709]**, including the **Personal Data Protection (Amendment) Act 2024**.
 - Recognise that each individual is personally accountable for the legal consequences of their own investigative decisions and actions.
 
 No MOC channel, document, activity, or discussion grants legal authorisation to perform unlawful access, intrusive targeting, or prohibited conduct.

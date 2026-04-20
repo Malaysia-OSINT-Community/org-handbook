@@ -32,7 +32,7 @@ References to tools, techniques, and workflows are educational only and must not
 
 Members are responsible for understanding and complying with applicable law and regulatory duties in their own context, including privacy and cyber-related obligations.
 
-This includes sensitivity to Malaysian legal frameworks such as the Personal Data Protection Act (PDPA) and the Cybercrime Bill 2026, together with any other applicable requirements.
+This includes sensitivity to Malaysian legal frameworks such as the Personal Data Protection Act 2010 [Act 709], including the Personal Data Protection (Amendment) Act 2024, together with any other applicable requirements.
 
 Legal obligations such as reporting, notification, consent handling, and cooperation with lawful processes remain the individual member's responsibility.
 
