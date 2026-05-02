@@ -1,9 +1,9 @@
 # Code of Ethics
 
-## Malaysian OSINT Community (MOC)
+## Malaysia OSINT Community (MOC)
 
 **Effective Date:** 16 April 2026  
-**Applies To:** All Malaysian OSINT Community (MOC) members, volunteers, Office Bearers, contributors, and practitioners across all MOC channels, programmes, documents, and events.
+**Applies To:** All Malaysia OSINT Community (MOC) members, volunteers, Office Bearers, contributors, and practitioners across all MOC channels, programmes, documents, and events.
 
 ## 1) Core Philosophy: Ikut Resmi Padi
 

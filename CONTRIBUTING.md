@@ -1,4 +1,4 @@
-# Contributing to Malaysian OSINT Community (MOC)
+# Contributing to Malaysia OSINT Community (MOC)
 
 Thank you for helping build a high-trust OSINT learning community in Malaysia.
 

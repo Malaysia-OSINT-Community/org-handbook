@@ -1,13 +1,13 @@
 # Terms of Reference (ToR)
 
-## Malaysian OSINT Community (MOC)
+## Malaysia OSINT Community (MOC)
 
 **Effective Date:** 16 April 2026  
-**Applies To:** All Malaysian OSINT Community (MOC) channels, programmes, documents, events, and related activities.
+**Applies To:** All Malaysia OSINT Community (MOC) channels, programmes, documents, events, and related activities.
 
 ## 1. Purpose and Scope
 
-This Terms of Reference sets out the organisational model, role accountabilities, operational procedures, and governance boundaries of the Malaysian OSINT Community (MOC).
+This Terms of Reference sets out the organisational model, role accountabilities, operational procedures, and governance boundaries of the Malaysia OSINT Community (MOC).
 
 MOC is a professional learning community for Open-Source Intelligence (OSINT) in Malaysia. Its purpose is to strengthen lawful capability through education, ethical research, defensive awareness, and practical skill development.
 

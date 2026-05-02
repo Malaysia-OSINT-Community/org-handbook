@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This Code of Conduct sets behavioural standards for participation in the Malaysian OSINT Community (MOC). It is designed to protect community safety, legal compliance sensitivity, and ethical practice.
+This Code of Conduct sets behavioural standards for participation in the Malaysia OSINT Community (MOC). It is designed to protect community safety, legal compliance sensitivity, and ethical practice.
 
 Participation in MOC means you agree to follow these rules.
 

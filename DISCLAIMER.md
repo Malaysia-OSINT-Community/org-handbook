@@ -1,7 +1,7 @@
 # Legal and Ethical Disclaimer (2026)
 
 **Effective Date:** 25 March 2026  
-**Applies To:** All Malaysian OSINT Community (MOC) channels, documents, discussions, events, and related activities.
+**Applies To:** All Malaysia OSINT Community (MOC) channels, documents, discussions, events, and related activities.
 
 ## 1) Educational Scope
 

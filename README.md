@@ -1,6 +1,6 @@
-# Malaysian OSINT Community (MOC)
+# Malaysia OSINT Community (MOC)
 
-The Malaysian OSINT Community (MOC) is a professional learning community focused on lawful, ethical, and responsible Open-Source Intelligence (OSINT) practice in Malaysia.
+The Malaysia OSINT Community (MOC) is a professional learning community focused on lawful, ethical, and responsible Open-Source Intelligence (OSINT) practice in Malaysia.
 
 ## Mission
 
