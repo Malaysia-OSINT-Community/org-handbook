@@ -39,6 +39,11 @@ How to read an entry:
 	- Link: https://osintframework.com
 	- Notes: Use as a reference directory; vet each tool before operational use.
 
+- Epieos / Email and phone reverse lookup
+	- Tags: Global / Search / Open
+    - Link: https://epieos.com/
+	- Notes: If concerned about personal data, please go to https://epieos.com/privacy, the site do highlight how to delete personal data from the site.
+
 ### 2) Username & Account Footprinting
 - Purpose: map public account footprints across platforms.
 
@@ -51,6 +56,11 @@ How to read an entry:
 	- Tags: Global / SOCMINT / Search / Paid/Free
     - Link: https://www.social-searcher.com/
 	- Notes: Use layered verification; cross-reference profile details and posting histories.
+
+- holehe / Cross checking email accorss multiple sites
+	- Tags: Global / SOCMINT / Free
+    - Link: https://github.com/megadose/holehe 
+	- Notes: Useful for cross referencing email across multiple sites. 
 
 ### 3) Geolocation & Mapping (GEOINT)
 - Purpose: infer location from imagery, cues, and environmental detail.
