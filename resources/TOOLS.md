@@ -39,7 +39,7 @@ How to read an entry:
 	- Link: https://osintframework.com
 	- Notes: Use as a reference directory; vet each tool before operational use.
 
-  - Epieos / Email and phone reverse lookup
+- Epieos — Email and phone reverse lookup
 	- Tags: Global / Search / Open
     - Link: https://epieos.com/
 	- Notes: If concerned about personal data, please go to https://epieos.com/privacy, the site do highlight how to delete personal data from the site.
