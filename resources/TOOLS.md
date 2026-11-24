@@ -138,6 +138,15 @@ How to read an entry:
 	- Tags: Global / GEOINT / Mapping / Open
 	- Notes: Produce reproducible maps with data sources and export raw data where permitted.
 
+- H1DR4 Public Incident Map — Browser map of reported incidents with public, source-linked case timelines.
+	- Tags: UK-focused data example / GEOINT / Mapping / Free public view
+	- Link: https://h1dr4.dev/map
+	- Purpose: Teach how to read a public incident map and check the source behind a geographic lead.
+	- Verification notes: Compare the selected period and area with the [Police.uk methodology](https://data.police.uk/about/) and check coverage before drawing conclusions.
+	- Legal/Risk Flags: Police.uk points are approximate and may represent multiple records. Use the map for area-level research and avoid attributing reports to individual addresses.
+	- Example/Quick use: Select an area and month, inspect a cluster, and use the source notes to explain how its coordinates were assigned.
+	- Maintainer / Contributor: @nativ3ai (H1DR4 contributor)
+
 ---
 
 ## Admiralty / NATO Source Reliability & Confidence (recommended)
